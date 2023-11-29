@@ -119,8 +119,8 @@ p code {
 a {
   text-decoration: none;
   cursor: crosshair;
-  border-bottom: 1px dashed orange;
-  color: #930ee4;
+  border-bottom: 1px dashed #2f6f9c;
+  color: #2f6f9c;
 }
 
 a:hover {
